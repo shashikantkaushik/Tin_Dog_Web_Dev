@@ -43,8 +43,8 @@ To run the site on your local machine
 ![]("https://github.com/shashikantkaushik/Tin_Dog_Web_Dev/blob/main/170564008-69aadad1-b0bd-4a70-8176-95ed00399bb6.mp4")
 
 <br>
-##Active Site Link
-[](https://shashikantkaushik.github.io/Tin_Dog_Web_Dev/)
+## Active Site Link
+![](https://shashikantkaushik.github.io/Tin_Dog_Web_Dev/)
 
 <br>
 
