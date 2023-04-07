@@ -15,7 +15,7 @@ A home page website which provides details of the application to the end user li
 ## Tools Used
 
 The main framework used in building the TinDog website is Bootstrap and its components like Carousel, Card, Buttons, Navbar etc. It also used HTML5, CSS3 and Google Fonts and Font Awesome.
-# link https://nandkishor01.github.io/Tindog/pt
+
 
 
 
@@ -40,7 +40,11 @@ To run the site on your local machine
 <br>  
 
 ## 🚀 Preview
-![](https://github.com/shashikantkaushik/Tin_Dog_Web_Dev/blob/main/170564008-69aadad1-b0bd-4a70-8176-95ed00399bb6.mp4)
+![]("https://github.com/shashikantkaushik/Tin_Dog_Web_Dev/blob/main/170564008-69aadad1-b0bd-4a70-8176-95ed00399bb6.mp4")
+
+<br>
+##Active Site Link
+[](https://shashikantkaushik.github.io/Tin_Dog_Web_Dev/)
 
 <br>
 
