@@ -45,7 +45,7 @@ To run the site on your local machine
 <br>
 
 ## Active Site Link
-[liink]("https://shashikantkaushik.github.io/Tin_Dog_Web_Dev/")
+(https://shashikantkaushik.github.io/Tin_Dog_Web_Dev/)
 
 <br>
 
