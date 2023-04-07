@@ -40,7 +40,11 @@ To run the site on your local machine
 <br>  
 
 ## 🚀 Preview
-[]("https://github.com/shashikantkaushik/Tin_Dog_Web_Dev/blob/main/170564008-69aadad1-b0bd-4a70-8176-95ed00399bb6.mp4")
+<video width="320" height="240" controls>
+  <source src="https://github.com/shashikantkaushik/Tin_Dog_Web_Dev/blob/main/170564008-69aadad1-b0bd-4a70-8176-95ed00399bb6.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 
 <br>
 
