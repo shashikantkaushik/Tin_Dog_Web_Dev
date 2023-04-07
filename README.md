@@ -3,9 +3,6 @@
 # Tin Dog  🐶
  
 
-
-
-
 A tinder website made exclusively for Dogs.
 
 ## About TinDog
