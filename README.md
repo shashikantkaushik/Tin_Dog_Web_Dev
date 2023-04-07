@@ -34,7 +34,7 @@ To run the site on your local machine
 1. Download or clone the repository onto your machine.
 2. Extract the .zip file.
 3. Open .html file in your browser.
-5. Alternatively you can click on the following ![Site Link]("https://github.com/shashikantkaushik/Tin_Dog_Web_Dev") to view.
+5. Alternatively you can click on the following [Site Link]("https://github.com/shashikantkaushik/Tin_Dog_Web_Dev") to view.
 
 
 <br>  
