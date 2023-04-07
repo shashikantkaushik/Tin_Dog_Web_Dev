@@ -41,12 +41,8 @@ To run the site on your local machine
 
 ## 🚀 Preview
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/shashikantkaushik/Tin_Dog_Web_Dev/blob/78abc06075c28b489181a60e4c06eacdd8df68ad/170564008-69aadad1-b0bd-4a70-8176-95ed00399bb6.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+[![Tin Dog Website Demo](https://user-images.githubusercontent.com/39058941/135958791-88c8b694-2e22-4d90-96d8-8f5205dc6f2a.png)](https://github.com/shashikantkaushik/Tin_Dog_Web_Dev/blob/78abc06075c28b489181a60e4c06eacdd8df68ad/170564008-69aadad1-b0bd-4a70-8176-95ed00399bb6.mp4)
 
-![Alt text](https://github.com/shashikantkaushik/Tin_Dog_Web_Dev/blob/78abc06075c28b489181a60e4c06eacdd8df68ad/170564008-69aadad1-b0bd-4a70-8176-95ed00399bb6.mp4)
 
 
 <br>
