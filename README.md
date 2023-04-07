@@ -40,7 +40,7 @@ To run the site on your local machine
 <br>  
 
 ## 🚀 Preview
-![Watch the video](https://github.com/shashikantkaushik/Tin_Dog_Web_Dev/blob/main/170564008-69aadad1-b0bd-4a70-8176-95ed00399bb6.mp4)
+![](https://github.com/shashikantkaushik/Tin_Dog_Web_Dev/blob/main/170564008-69aadad1-b0bd-4a70-8176-95ed00399bb6.mp4)
 
 <br>
 
