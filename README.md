@@ -42,11 +42,11 @@ To run the site on your local machine
 ## 🚀 Preview
 
 <video width="320" height="240" controls>
-  <source src="https://github.com/shashikantkaushik/Tin_Dog_Web_Dev/blob/main/170564008-69aadad1-b0bd-4a70-8176-95ed00399bb6.mp4" type="video/mp4">
+  <source src="https://github.com/shashikantkaushik/Tin_Dog_Web_Dev/blob/78abc06075c28b489181a60e4c06eacdd8df68ad/170564008-69aadad1-b0bd-4a70-8176-95ed00399bb6.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-[![Alt text](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+![Alt text](https://github.com/shashikantkaushik/Tin_Dog_Web_Dev/blob/78abc06075c28b489181a60e4c06eacdd8df68ad/170564008-69aadad1-b0bd-4a70-8176-95ed00399bb6.mp4)
 
 
 <br>
